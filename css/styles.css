@@ -1,7 +1,15 @@
+/* First page */
 .bodyback {
     background-color: burlywood;
 }
 
 .disappear {
     opacity: 0.7;
+}
+
+.coolbtn {
+    background-color: aqua;
+    border-color: aqua;
+    color: darkorchid;
+    height: 100px;
 }
